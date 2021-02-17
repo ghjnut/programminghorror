@@ -1,3 +1,27 @@
+def main():
+    NUMBERS = """
+    195
+    438
+    1295
+    613
+    1952
+    823
+    14
+    8
+    571
+    1723
+    1407
+    1111
+    293
+    2020
+    0
+    7513
+    """
+    #four_digit_numbers =
+    #four_digit_number =
+    #c0 = 
+    #c1 =
+    #c00 =
     c11 = 9
     ans = ''
     num4_chunk = ''
